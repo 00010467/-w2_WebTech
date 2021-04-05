@@ -25,7 +25,7 @@ In case you want to download the application:
 Go to my <a href="https://github.com/00010467/-w2_WebTech.git">GitHub Account</a>
 
 In case you want to view the website on <bold> GLITCH </bold>:
-Go to my <a href="">DEPLOYED WEBSITE on glitch</a>
+Go to my <a href="https://silver-wheat-fenugreek.glitch.me/">DEPLOYED WEBSITE on glitch</a>
 
 # DEPENDANCIES
 
